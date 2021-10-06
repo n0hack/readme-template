@@ -1,6 +1,8 @@
 # 프로젝트 이름
 
-프로젝트 로고
+<p style="text-align:center">
+  <img src="./images/common/logo-sample.png">
+</p>
 
 <br>
 
