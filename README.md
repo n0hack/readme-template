@@ -1,10 +1,10 @@
 # 프로젝트 이름
 
-<p style="text-align:center">
+<p align="center">
+  <br>
   <img src="./images/common/logo-sample.png">
+  <br>
 </p>
-
-<br>
 
 ## 프로젝트 소개
 
